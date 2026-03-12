@@ -26,7 +26,7 @@ and business insight generation.
 ---
 
 ## 📬 Let's Connect
-- 💼 [LinkedIn](#) ← Replace # with your LinkedIn URL
+- 💼 [LinkedIn](www.linkedin.com/in/john-stallings) ← Replace # with your LinkedIn URL
 - 📧 Available for data analyst and data scientist opportunities
 
 ---
