@@ -33,8 +33,3 @@ and business insight generation.
 
 ![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-stallings-data&show_icons=true&theme=default)
 ```
-
-5. Click **"Commit changes"**
-6. In the popup change summary to:
-```
-Add professional profile README
