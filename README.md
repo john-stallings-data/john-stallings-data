@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm John Stallings 👋
 
-<!--
-**john-stallings-data/john-stallings-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Data Scientist | Python | SQL
 
-Here are some ideas to get you started:
+I'm a data professional passionate about turning raw data into 
+meaningful insights that drive business decisions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skills
+
+**Languages & Tools:**
+- Python (pandas, numpy, matplotlib)
+- SQL (data querying, aggregation, analysis)
+- GitHub (version control, collaboration)
+
+---
+
+## 📁 Featured Projects
+
+### 📊 Data Analysis Projects
+A collection of Python and SQL scripts for data exploration 
+and business insight generation.
+[View Repository](https://github.com/john-stallings-data/data-analysis-projects)
+
+---
+
+## 📬 Let's Connect
+- 💼 [LinkedIn](#) ← Replace # with your LinkedIn URL
+- 📧 Available for data analyst and data scientist opportunities
+
+---
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=john-stallings-data&show_icons=true&theme=default)
+```
+
+5. Click **"Commit changes"**
+6. In the popup change summary to:
+```
+Add professional profile README
